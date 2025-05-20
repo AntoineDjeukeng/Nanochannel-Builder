@@ -124,5 +124,5 @@ If write_type is set to 1, atoms in the same layer get different residue IDs.
 
 ### CDI Membrane:
 ![CDI](/data/CDI1.png)
-###chBN Membrane:
+### hBN Membrane:
 ![hBNs](/data/hBNs1.png)
