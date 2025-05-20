@@ -1,0 +1,18 @@
+[project]
+name = "md-simulation"
+version = "0.1.0"
+description = "MD simulation setup for membranes with electrolytes"
+authors = [
+    { name = "Antoine Djeukeng Momo", email = "antoinedjeukeng@gmail.com" }
+]
+readme = "README.md"
+requires-python = ">=3.10,<4.0"
+
+dependencies = [
+    "numpy >=2.2.5,<3.0.0",
+    "pytest >=8.3.5,<9.0.0"
+]
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
